@@ -32,12 +32,14 @@ _(Continue till Day 30...)_
 
 ## 🚀 How to Run
 
+
 Each solution is written in JavaScript.  
 To run any file locally using Node.js:
 
 ```bash
 node <filename>.js
 
+````
 ## 📬 Contact Me
 
 If you have any suggestions, doubts, or face any issues related to these solutions, feel free to reach out:
@@ -55,3 +57,6 @@ I'm always happy to help and collaborate. Let’s grow together!
 This repository contains my original JavaScript solutions for the publicly available 30-day challenge on LeetCode.  
 Problem statements are **not included** to comply with LeetCode's content policy.  
 Please visit the provided links to view each problem on the official website.
+
+
+
